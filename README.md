@@ -4,8 +4,8 @@ A simple python script to change twitter.com to vxtwitter.com when copy-pasting
 I made this in a dash after twitter basically breaking embeds preview and making it a pain to send posts with images / videos  
 
 # How to use
-0. Download the files needed
-1. Run the installation within required modules in the txt file in your Command Prompt ( cmd )
+0. Download the files needed .
+1. Copy the text within required modules.txt in your Command Prompt ( cmd ) to download the modules .
 2. After downloading the modules run the python script and enjoy :D
 
 # Preview
