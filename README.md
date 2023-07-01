@@ -28,3 +28,5 @@ I made this in a dash after twitter basically breaking embeds preview and making
 [^1]:
 ![Enable](https://cdn.discordapp.com/attachments/518291109600821255/1124633420803354664/image.png)
 [^2]:
+
+- If you encounter any bugs please report it to me and feel free to comb around the code to give me some advice or feature reqs
