@@ -1,5 +1,6 @@
 # vxtwitter-paster
 A simple python script to change twitter.com to vxtwitter.com when copy-pasting
+[^1]:
 I made this in a dash after twitter basically breaking embeds preview and making it a pain to send posts with images / videos  
 
 # How to use
