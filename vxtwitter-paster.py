@@ -37,7 +37,7 @@ def replace_twitter_link(text):
 
   if "twitter.com" in text:
 
-    new_text = text.replace("twitter.com", "vxtwitter.com")
+    new_text = text.replace("/twitter.com", "/vxtwitter.com")
     return new_text
 
   else:
